@@ -1,6 +1,6 @@
 # Project Tittle: Maze Runner
 
-# Group Members: 
+**Group Members:**
 
 1. Mariha binti Masri - 24005602
 2. Qurratu Nur Fayyadhah Binti Ahmad Mawaridi - 24006080
@@ -9,12 +9,12 @@
 5. ⁠’Afifah Syakirah binti Ahmad Shamil - 24005854
 6. ⁠Nur Hanani binti Hazlan -24005607
 
-# Project Description:
+**Project Description:** 
 This project focuses on the design and development of a simulation based game called Maze Runner, implemented using Object Oriented Programming principles in C#. The purpose of this project is to apply core OOP concepts such as encapsulation, inheritance, and polymorphism in building an interactive and structured game system. The game simulates a maze environment and allows the player to interact through controlled movements and actions.
 
 The Maze Runner game is inspired by 2D grid-based maze games where the player navigates from a starting point to an exit, avoiding enemies or traps and collecting items. This type of simulation based game is suitable for OOP implementation because it involves multiple interacting entities like players and enemies. 
 
-# System Features:
+**System Features:**
 1. Player Movement:
    - Navigate the maze using W, A, S, D or arrow keys.
 2. Enemy AI:
@@ -40,7 +40,7 @@ The Maze Runner game is inspired by 2D grid-based maze games where the player na
 10. Pause & Exit:
     - Press Esc to quit the game at any time.
 
-OOP Concepts Used:
+**OOP Concepts Used:**
 
 1. Encapsulation:
    - Player, Enemy, and Item classes hide their internal data using properties and methods.
@@ -55,7 +55,7 @@ OOP Concepts Used:
    - Methods like Attack() and Collect() are implemented differently in derived classes.
    - GameController can handle all types of enemies or items through their base class references without knowing the exact type.
 
-Instructions to Run the Program:
+**Instructions to Run the Program:**
 
 1. Make sure you have Visual Studio (or any C# IDE) installed.
 2. Clone or download the project from GitHub:
@@ -69,7 +69,7 @@ Instructions to Run the Program:
    - Collect items (Potions, Key) to progress.
    - Reach the exit (E) after collecting the key to advance levels.
 
-Project File Structure:
+**Project File Structure:**
 
 MazeRunnerProject
 
